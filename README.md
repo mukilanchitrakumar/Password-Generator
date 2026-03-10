@@ -12,7 +12,7 @@
 
 **100% client-side · Zero dependencies · Zero data collection**
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://mukilanchitrakumar.github.io/Password-Generator/) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 
